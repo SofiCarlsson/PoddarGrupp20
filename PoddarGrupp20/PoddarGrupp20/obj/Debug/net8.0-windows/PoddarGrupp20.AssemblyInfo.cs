@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoddarGrupp20")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df70ba3de4a143dc3b9f554624d963d83186e0f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34ed52a41e8103c912f42e34c88b1c9e7b4b3096")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoddarGrupp20")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoddarGrupp20")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

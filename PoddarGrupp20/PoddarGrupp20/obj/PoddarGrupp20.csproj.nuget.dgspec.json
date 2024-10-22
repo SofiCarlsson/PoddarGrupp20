@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carls\\Documents\\Örebro universitet\\C#\\PoddApplikation\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20.csproj": {}
+    "C:\\Users\\clara\\OneDrive\\Dokument\\NetBeansProjects\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carls\\Documents\\Örebro universitet\\C#\\PoddApplikation\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20.csproj": {
+    "C:\\Users\\clara\\OneDrive\\Dokument\\NetBeansProjects\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carls\\Documents\\Örebro universitet\\C#\\PoddApplikation\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20.csproj",
+        "projectUniqueName": "C:\\Users\\clara\\OneDrive\\Dokument\\NetBeansProjects\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20.csproj",
         "projectName": "PoddarGrupp20",
-        "projectPath": "C:\\Users\\carls\\Documents\\Örebro universitet\\C#\\PoddApplikation\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20.csproj",
-        "packagesPath": "C:\\Users\\carls\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carls\\Documents\\Örebro universitet\\C#\\PoddApplikation\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20\\obj\\",
+        "projectPath": "C:\\Users\\clara\\OneDrive\\Dokument\\NetBeansProjects\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20.csproj",
+        "packagesPath": "C:\\Users\\clara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\clara\\OneDrive\\Dokument\\NetBeansProjects\\PoddarGrupp20\\PoddarGrupp20\\PoddarGrupp20\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carls\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\clara\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
